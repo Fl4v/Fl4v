@@ -18,6 +18,13 @@ I am currently learning <img src="https://github.com/devicons/devicon/blob/maste
 
 ---
 
+### &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fl4v&hide=jupyter%20notebook,html,css,javascript&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Flavius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fl4v&hide=stars&theme=cobalt)
+
 <!--
 **Fl4v/Fl4v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
