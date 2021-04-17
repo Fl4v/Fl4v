@@ -2,7 +2,7 @@
 
 ---
 
-I am a Software Developer. I mainly code in <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="15" height="15"/>Python and <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="15" height="15"/>Golang with the aspiration of also learning <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="15" height="15"/>Rust.
+I am a Software Developer. I mainly code in <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="15" height="15"/>Python and <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="15" height="15"/>Golang with the aspiration of also learning <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="15" height="15"/>Rust. I have experience with Azure Cloud as well as some experience with Amazon Web Services.
 
 During my spare time, I like to contribute to open source software, like the [LXD](https://github.com/lxc/lxd) project, which in turns allows me to further develop my software engineering skills.
 
