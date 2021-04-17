@@ -6,9 +6,15 @@ I am a Software Developer. I mainly code in <img src="https://github.com/devicon
 
 During my spare time, I like to contribute to open source software, like the [LXD](https://github.com/lxc/lxd) project, which in turns allows me to further develop my software engineering skills.
 
-I am currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="15" height="15"/>Kubernetes with the aim of getting the `Certified Kubernetes Application Developer (CKAD)` accreditation from the [Linux Fundation](https://www.linuxfoundation.org/).
+I am currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="15" height="15"/>Kubernetes with the aim of getting the `Certified Kubernetes Application Developer (CKAD)` accreditation from the [Linux Foundation](https://www.linuxfoundation.org/).
 
 ###### P.S. Big shoutout to [@catalinpit](https://github.com/catalinpit). His content inspired this intro.
+
+---
+
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" width="45" height="45"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/> <img src="https://raw.githubusercontent.com/Azure/azure-functions-python-worker/dev/docs/Azure.Functions.svg" alt="Function App" width="45" height="45"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" alt="Digital Ocean" width="50" height="50"/> 
 
 ---
 
