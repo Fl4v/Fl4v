@@ -20,7 +20,7 @@ I am currently learning <img src="https://github.com/devicons/devicon/blob/maste
 
 ### &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fl4v&hide=jupyter%20notebook,html,css,scss,r,shell&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fl4v&hide=jupyter%20notebook,html,css,scss,r,shell,makefile&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Flavius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fl4v&hide=stars&theme=cobalt)
