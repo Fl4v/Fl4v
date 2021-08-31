@@ -6,8 +6,6 @@ I am a Software Developer. I mainly code in <img src="https://github.com/devicon
 
 During my spare time, I like to contribute to open source software, like the [LXD](https://github.com/lxc/lxd) project, which in turns allows me to further develop my software engineering skills.
 
-I am currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="15" height="15"/>Kubernetes with the aim of getting the `Certified Kubernetes Application Developer (CKAD)` accreditation from the [Linux Foundation](https://www.linuxfoundation.org/).
-
 ###### P.S. Big shoutout to [@catalinpit](https://github.com/catalinpit). His content inspired this intro.
 
 ---
