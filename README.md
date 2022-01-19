@@ -20,9 +20,6 @@ During my spare time, I like to contribute to open source software, like the [LX
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fl4v&hide=jupyter%20notebook,html,css,scss,r,shell,makefile,dockerfile&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Flavius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fl4v&hide=stars&theme=cobalt)
-
 <!--
 **Fl4v/Fl4v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
